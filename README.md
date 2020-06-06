@@ -1,4 +1,4 @@
-Travis-CI Build Status: [![Build Status](https://travis-ci.com/github/paulisch/go-mux-03.svg?branch=master)](https://travis-ci.com/github/paulisch/go-mux-03)
+Travis-CI Build Status: [![Build Status](https://travis-ci.com/paulisch/go-mux-03.svg?branch=master)](https://travis-ci.com/paulisch/go-mux-03)
 
 # go-mux: Microservice in GoTutorial
 
